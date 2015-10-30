@@ -296,6 +296,7 @@ oc: Mot de Santa Clara, per acc&egrave;s <em>amic</em> o <em>administrator</em>:
 pl: Hasło dla dostępu <em>"friend"</em> lub <em>"wizard"</em> :
 pt: Palavra chave para entrada <em>amigo</em> ou <em>feiticeiro</em>:
 ro: Parola, pentru acces de <em>amic</em> sau <em>magician</em>:
+sl: Geslo za <em>"prijatelj"</em> ali <em>"čarovnik"</em>:
 sv: Passord, f&ouml;r <em>v&auml;nner</em> eller <em>administrat&ouml;r</em>
     tilltr&auml;de:
 ]
